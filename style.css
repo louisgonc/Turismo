@@ -1,0 +1,15 @@
+body{
+  padding: 88px;
+}
+
+img{
+  width: 1120px;
+  height: 660px;
+  border-radius: 30px;  
+}
+
+.section img{
+  width: 1120px;
+  height: 660px;
+  border-radius: 30px;
+}
