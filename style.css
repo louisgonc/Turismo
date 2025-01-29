@@ -106,3 +106,15 @@ img{
 #casais{
   color: #591B98;
 }
+
+footer{
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img{
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+}
